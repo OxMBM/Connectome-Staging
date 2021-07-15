@@ -1,0 +1,22 @@
+This directory is intended to hold the connectome that you want to load and 
+run using one of the following scripts
+
+Scripts for the PIT connectome files
+	1. main_fkpp_pit.m
+	2. main_damage_pit.m
+
+Scripts for the FSL connectome files
+	3. main_fkpp_fsl.m
+	4. main_damage_fsl.m
+
+The connectomes can be copied into this directory from 
+[path to repository]/Connectome-Staging/Connectomes/
+
+The connectomes for use with the PIT connectome scripts, listed above, are 
+located in the directory 
+[path to repository]/Connectome-Staging/Connectomes/PIT-deterministic/
+
+The connectomes for use with the FSL connectome scripts, listed above, are 
+located in the directory
+[path to repository]/Connectome-Staging/Connectomes/FSL-probabilistic/
+
