@@ -13,10 +13,7 @@
 
 The braid surface generation source code produces a braid surface plot for a Fisher-Kolmogorov-Petrovsky-Piskunov (FKPP) model evolving on an undirected human connectome brain graph in *csv* format. The FKPP solver uses built-in MATLAB functions, such as ode45, to solve the nonlinear ODE system.   
 
-MATLAB Version Dependencies (R2015a or greater)
-Tested with:
-1. MATLAB R2015a
-2. MATLAB R2020a
+MATLAB Version Dependencies: requires R2020a or greater
 
 #### Braid surface generation scripts and connectome types
 The source code to produce braid surfaces falls into two categories:

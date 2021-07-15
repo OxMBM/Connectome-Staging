@@ -18,7 +18,7 @@ manuscript entitled *Braiding Braak and Braak: Staging patterns and model
 selection in network neurodegeneration*.
 
 ## Source Code
-The source code included in this repository is written in Matlab and can be found in the subdirectory titled *Source*.  The code was written, and tested, in Matlab version R2015a and will work in other any backwards-compatible version.  Instructions for using the included source code can be found in the file *Source/Readme.md*.  
+The source code included in this repository is written in Matlab and can be found in the subdirectory titled *Source*.  The code was written, and tested, in Matlab version R2020a.  Instructions for using the included source code can be found in the file *Source/Readme.md*.  
 
 ## Connectomes
 The *Connectomes* subdirectory contains two subdirectories.  These 
